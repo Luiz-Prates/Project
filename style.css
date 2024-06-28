@@ -1,0 +1,29 @@
+.user {
+    height: 24px;
+    width: auto;
+    background-color: white;
+    border-radius: 12px;
+    padding:0;
+}
+.ls{
+    margin-bottom:0;
+}
+.panel {
+    margin-bottom: 20px;
+  }
+  .panel-brown {
+    background-color: #AF8D36; /* Brown */
+    color: white;
+  }
+  .panel-green {
+    background-color: #4FB84D; /* Green */
+    color: white;
+  }
+  .panel-red {
+    background-color: #BC2C2C; /* Red */
+    color: white;
+  }
+  .panel-blue {
+    background-color: #5459CA; /* Blue */
+    color: white;
+  }
